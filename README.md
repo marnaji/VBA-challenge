@@ -11,5 +11,5 @@ I used VBA scripting to return the stock with the "Greatest % increase", "Greate
 The yearly change collumn has been modified by conditional formatting that will highlight positive change in green and negative change in red.
 Bellow is the image of the outcome:
 
-![Alt text](/Images/ImagesOfOutcome/MultipleYearshot.png."Title")
+![Alt text](/Images/ImagesOfOutcome/MultipleYearshot.png "dataOutcome")
 
